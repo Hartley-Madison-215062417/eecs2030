@@ -1,0 +1,7 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:HelloWorld,org.eclipse.launchbar.core.descriptorType.default\:TestLab0,org.eclipse.launchbar.core.descriptorType.default\:CTViewer,org.eclipse.launchbar.core.descriptorType.default\:HounsfieldWindowTest,org.eclipse.launchbar.core.descriptorType.default\:HounsfieldTest,org.eclipse.launchbar.core.descriptorType.default\:NickelTest,org.eclipse.launchbar.core.descriptorType.default\:CardTest,org.eclipse.launchbar.core.descriptorType.default\:DieTest,org.eclipse.launchbar.core.descriptorType.default\:DominoTest,org.eclipse.launchbar.core.descriptorType.default\:ComplexTest.test01_noArgCtor,org.eclipse.launchbar.core.descriptorType.default\:ComplexTest
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:HelloWorld/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:HelloWorld/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
